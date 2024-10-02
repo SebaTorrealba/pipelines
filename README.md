@@ -16,14 +16,14 @@ Tasks:
 3. Load the data into the database table(s). Database must store at least below data
 points:
 
-○ Station Id
-○ Station name
-○ Station Timezone
-○ Latitude/Longitude
-○ Observation timestamp
-○ Temperature (round to two decimal places)
-○ Wind Speed (round to two decimal places)
-○ Humidity (round to two decimal places)
+- Station Id
+- Station name
+- Station Timezone
+- Latitude/Longitude
+- Observation timestamp
+- Temperature (round to two decimal places)
+- Wind Speed (round to two decimal places)
+- Humidity (round to two decimal places)
 
 4. Use the stored data and write SQL statements for below metrics
 a. Average observed temperature for last week(Mon-Sun).
